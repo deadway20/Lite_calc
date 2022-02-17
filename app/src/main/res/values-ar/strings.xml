@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اله حاسبه</string>
+    <string name="currency_txt">محمول عملات</string>
+    <string name="from_txt">من</string>
+    <string name="to">الى</string>
+    <string name="convert">تحويل</string>
+    <string name="amount">القيمه</string>
+    <string name="select_country">إختر البلد</string>
+    <string name="select_country_To">إختر البلد</string>
+    <string name="USA">دولار أمريكى</string>
+    <string name="EGY"> جنيه مصري</string>
+    <string name="KSA">ريال سعودى</string>
+    <string name="KWT">دينار كويتي</string>
+</resources>

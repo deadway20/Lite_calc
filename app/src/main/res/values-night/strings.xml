@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="currency_txt">Currency Converter</string>
+    <string name="from_txt">From</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+    <string name="amount">Amount</string>
+    <string name="select_country">Select country</string>
+    <string name="select_country_To">Select country</string>
+    <string name="USA">American Dollar</string>
+    <string name="EGY">Egyptian Pound</string>
+    <string name="KSA">Saudi Riyal</string>
+    <string name="KWT">Kuwaiti Dinar</string>
+</resources>
